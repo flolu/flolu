@@ -1,4 +1,4 @@
-_If you're reading this I am probably working on @drakery or working out._
+_If you're reading this I am probably working on [Drakery][2] or working out._
 
 **Doing**: 🔨 Building a 3d platform 📘 Studying Computer Science
 
@@ -21,3 +21,4 @@ _If you're reading this I am probably working on @drakery or working out._
 
 [0]: https://www.notion.so
 [1]: https://www.getunscripted.com
+[2]: https://github.com/drakery3d
