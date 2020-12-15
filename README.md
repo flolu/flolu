@@ -1,24 +1,25 @@
-_If you're reading this I am probably working on [Drakery][2] or working out._
+### I Am
 
-**Doing**: 🔨 Building a 3d platform 📘 Studying Computer Science
+🔨 Building a [3D platform](https://github.com/drakery3d)
 
-**Interests**: 👨‍💻️ Full Stack Development 💪 Calisthenics 📦 3D Grahpics 📷 Photogrammetry 👔 Entrepreneurship
+🛒 Devloping 3D eCommerce Solutions
 
-**Recommendations**: Start using [Notion][0] and read [Unscripted][1] (_thank me later_)
+📘 Studying Computer Science
 
-<div style="display: flex; margin-top: 20px;">
+<br>
 
-<a href="https://t.me/flolu"><img align="left" width="22px" src="https://raw.githubusercontent.com/flolu/flolu/master/icons/telegram.svg"></a>
-<a href="https://instagram.com/flolude"><img align="left" width="22px" src="https://raw.githubusercontent.com/flolu/flolu/master/icons/instagram.svg"></a>
-<a href="https://github.com/flolu"><img align="left" width="22px" src="https://raw.githubusercontent.com/flolu/flolu/master/icons/github.svg"></a>
-<a href="https://stackoverflow.com/users/8586803"><img align="left" width="22px" src="https://raw.githubusercontent.com/flolu/flolu/master/icons/stackoverflow.svg"></a>
-<a href="https://discord.com/users/580772258163851283"><img align="left" width="22px" src="https://raw.githubusercontent.com/flolu/flolu/master/icons/discord.svg"></a>
-<a href="https://www.youtube.com/channel/UCpeRl3f3jAMKGoomvddzBoQ"><img align="left" width="22px" src="https://raw.githubusercontent.com/flolu/flolu/master/icons/youtube.svg"></a>
-<a href="https://flolu.com"><img align="left" width="22px" src="https://raw.githubusercontent.com/flolu/flolu/master/icons/home.svg"></a>
-<a href="https://sketchfab.com/flolu"><img align="left" width="22px" src="https://raw.githubusercontent.com/flolu/flolu/master/icons/3d.svg"></a>
+### I Like
 
-</div>
+👨‍💻️ Full Stack Development
 
-[0]: https://www.notion.so
-[1]: https://www.getunscripted.com
-[2]: https://drakery.com
+📦 3D Grahpics
+
+👔 Entrepreneurship
+
+💪 Calisthenics
+
+🏃 Running
+
+<br>
+
+`const online = [`[Instagram](https://www.instagram.com/flolude)`, `[YouTube](https://www.youtube.com/c/flolu)`, `[StackOverflow](https://stackoverflow.com/users/8586803)`];`
