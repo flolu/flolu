@@ -22,4 +22,4 @@
 
 <br>
 
-`const online = [`[Instagram](https://www.instagram.com/flolude), [YouTube](https://www.youtube.com/c/flolu), [StackOverflow](https://stackoverflow.com/users/8586803)`];`
+`const online = [`[Instagram](https://www.instagram.com/flo.ludewig), [YouTube](https://www.youtube.com/c/flolu), [StackOverflow](https://stackoverflow.com/users/8586803)`];`
