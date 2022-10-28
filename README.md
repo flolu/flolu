@@ -8,7 +8,7 @@
 
 ## Follow me
 
-<img width="14px" height="auto" src="youtube.svg" /> <a href="https://www.youtube.com/c/flolu">`youtube.com/c/flolu`</a>
+<img width="14px" height="auto" src="youtube.svg" /> <a href="https://www.youtube.com/@flolu">`youtube.com/@flolu`</a>
 
 <img width="14px" height="auto" src="rumble.svg" /> <a href="https://rumble.com/user/flolu">`rumble.com/user/flolu`</a>
 
