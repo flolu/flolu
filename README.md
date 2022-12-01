@@ -4,8 +4,6 @@
 
 <img width="14px" height="auto" src="drakery.svg" /> <a href="https://drakery.com">`drakery.com`</a>
 
-<img width="14px" height="auto" src="monero.svg" /> <a href="https://meganero.com">`meganero.com`</a>
-
 ## Follow me
 
 <img width="14px" height="auto" src="youtube.svg" /> <a href="https://www.youtube.com/@flolu">`youtube.com/@flolu`</a>
