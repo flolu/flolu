@@ -10,7 +10,7 @@
 
 <img width="14px" height="auto" src="rumble.svg" /> <a href="https://rumble.com/user/flolu">`rumble.com/user/flolu`</a>
 
-<img width="14px" height="auto" src="instagram.svg" /> <a href="https://www.instagram.com/flo.ludewig">`instagram.com/flo.ludewig`</a>
+<img width="14px" height="auto" src="instagram.svg" /> <a href="https://www.instagram.com/flolu.de">`instagram.com/flolu.de`</a>
 
 ## Donations
 
