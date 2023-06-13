@@ -8,16 +8,13 @@
 
 <img width="14px" height="auto" src="youtube.svg" /> <a href="https://www.youtube.com/@flolu">`youtube.com/@flolu`</a>
 
-<img width="14px" height="auto" src="rumble.svg" /> <a href="https://rumble.com/user/flolu">`rumble.com/user/flolu`</a>
-
 <img width="14px" height="auto" src="instagram.svg" /> <a href="https://www.instagram.com/flolu.de">`instagram.com/flolu.de`</a>
+
 
 ## Donations
 
 <a href="https://flolu.de/donations#xmr"><img width="32px" height="auto" src="monero.svg" /></a><span> </span>
-<a href="https://flolu.de/donations#arrr"><img width="32px" height="auto" src="arrr.svg" /></a><span> </span>
 <a href="https://flolu.de/donations#dero"><img width="32px" height="auto" src="dero.png" /></a><span> </span>
-<a href="https://flolu.de/donations#wow"><img width="32px" height="auto" src="wownero.svg" /></a>
 
 ## Contact me
 
