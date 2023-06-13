@@ -6,9 +6,9 @@
 
 ## Follow me
 
-<img width="14px" height="auto" src="youtube.svg" /> <a href="https://www.youtube.com/@flolu">`youtube.com/@flolu`</a>
+<img width="14px" height="auto" src="youtube.svg" /> <a href="https://www.youtube.com/@flolu">`@flolu`</a>
 
-<img width="14px" height="auto" src="instagram.svg" /> <a href="https://www.instagram.com/flolu.de">`instagram.com/flolu.de`</a>
+<img width="14px" height="auto" src="instagram.svg" /> <a href="https://www.instagram.com/flo.ludewig">`@flo.ludewig`</a>
 
 
 ## Donations
